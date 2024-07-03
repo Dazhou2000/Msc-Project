@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="396725ee-2b50-4d01-b17b-e4984c5d7a96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Msc Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_MDI_importance with window_288.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_perm_importance with window_288.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P1_perm_importance with window_576.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SVM_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XGBoost_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extract_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extracted_features_P1_ with window_288.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extracted_features_P1_ with window_576.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extracted_features_P1_with window_24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features and seizure labels.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure plot/Data plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure plot/violin plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figure plot/wavelet_analysis_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_heart_rate_cycles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selected_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tresh package/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tresh package/rolled.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tresh package/tsfresh_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xgb_result.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2hSP3MZNl7M49ZTLHa6MlMZVspm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Data plot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XGBoost_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract features.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extract_features.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rolling window.executor&quot;: &quot;Run&quot;,
+    &quot;Python.select features.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tsfresh_features.executor&quot;: &quot;Run&quot;,
+    &quot;Python.violin plot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Data plot">
+    <configuration name="Data plot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Msc Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ASUS\Desktop\MSc Project\Project code\Msc Project\Data plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_features" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Msc Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ASUS\Desktop\MSc Project\Project code\Msc Project\extract_features.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.extract_features" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396725ee-2b50-4d01-b17b-e4984c5d7a96" name="Changes" comment="" />
+      <created>1717584304628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717584304628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
